@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-<h3> :man: &nbsp;Sobre mim </h3>
+<h3>Olá, sou Lucas!:</h3>
+<h2>:man: &nbsp;Sobre minha pessoinha amada:</h2>
 <br>
 - 🤔 &nbsp; Amante de programação e extremamente curioso.
 <br>
