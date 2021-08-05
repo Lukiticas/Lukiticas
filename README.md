@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-<h2>Olá, sou Lucas Matheus Nunes Pereira!:</h2>
+<h2>Olá, sou Lucas Matheus Nunes Pereira</h2>
 <h3>:man: &nbsp;Sobre minha pessoinha amada:</h3>
 <br>
 - 🤔 &nbsp; Amante de programação e extremamente curioso.
