@@ -21,7 +21,6 @@
 <p>
 Se você quiser entrar em contato comigo, aqui está minhas principais midias!: ⤵️
 </p>
-<br>
 <p align="left">
   <a href="https://www.facebook.com/Lukitias/" alt="facebook">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
