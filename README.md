@@ -8,7 +8,7 @@
 <br>
 - 🌱 &nbsp; Crescendo e aprendendo mais sobre software engineering e front-end development.
 <br>
-
+<br>
 🚀Minhas Skills:
 <br>
 <br>
