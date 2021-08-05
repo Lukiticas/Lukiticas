@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p> 
-  Olá, sou <strong>Lucas Matheus<strong>!! Sou apaixonado por programação e extremamente curioso.
-  <br>
+  Olá, sou <strong>Lucas Matheus</strong>!! Sou apaixonado por programação e extremamente curioso.
+  <br><br>
   Seguindo em FrontEnd e SoftwareEngineering, estou estudando Python pela Alura e aprendendo outras diversas linguagem 'autodidatamente' .
 </p>
   
