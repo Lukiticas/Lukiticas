@@ -30,9 +30,13 @@ Se você quiser entrar em contato comigo, aqui está minhas principais midias!: 
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 
 </p> 
+
+<p>Sobre meu ✨github✨:</p>
   
 [![card](https://github-readme-stats.vercel.app/api?username=Lukiticas&theme=dark)](https://github.com/Lukiticas/)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukiticas&layout=compact&theme=dark)](https://github.com/Lukiticas/)
+
+
 
 
 
