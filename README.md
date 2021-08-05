@@ -2,12 +2,11 @@
 
 <p> 
   Olá, sou <strong>Lucas Matheus<strong>!! Sou apaixonado por programação e extremamente curioso.
-</p>
-<p>
+  <br>
   Seguindo em FrontEnd e SoftwareEngineering, estou estudando Python pela Alura e aprendendo outras diversas linguagem 'autodidatamente' .
 </p>
-<br>
-## 🚀 Minhas Skills
+  
+🚀 Minhas Skills
  <br>
 <code><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></code>
 <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/></code>
