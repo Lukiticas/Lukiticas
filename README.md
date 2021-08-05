@@ -17,16 +17,16 @@
 Se você quiser entrar em contato comigo, aqui está minhas principais midias!: ⤵️
 </p>
 <p align="left">
-  <a href="#" alt="Outlook">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=Lucasmathues416@outlook.com" /></a>
+  <a href="https://www.facebook.com/Lukitias/" alt="facebook">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
           
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+  <a href="https://www.reddit.com/user/PotatoBreadDad" alt="Reddit">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/Lukitias"/></a>
+  <a href="lucasmathues416@outlook.com" alt="outlook">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/lulu_mathel/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lulu_mathel/"/></a>
 </p> 
   
