@@ -30,8 +30,8 @@ Se você quiser entrar em contato comigo, aqui está minhas principais midias!: 
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lulu_mathel/"/></a>
 </p> 
   
-[![card](https://github-readme-stats.vercel.app/api?username=Lukiticas&theme=default)](https://github.com/Lukiticas/)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukiticas&hide=html&layout=compact&theme=default)](https://github.com/Lukiticas/)
+[![card](https://github-readme-stats.vercel.app/api?username=Lukiticas&theme=dark)](https://github.com/Lukiticas/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukiticas&layout=compact&theme=dark)](https://github.com/Lukiticas/)
 
 
 
