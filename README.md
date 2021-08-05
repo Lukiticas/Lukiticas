@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p> 
-  Olá, sou <strong>Lucas Matheus</strong>!! Sou apaixonado por programação e extremamente curioso.
-  <br><br>
-  Seguindo em FrontEnd e SoftwareEngineering, estou estudando Python pela Alura e aprendendo outras diversas linguagem 'autodidatamente' .
-</p>
+<h3> :man: &nbsp;Sobre mim </h3>
+
+- 🤔 &nbsp; Amante de programação e extremamente curioso.
+- 🎓 &nbsp; Estudando de PYTHON na Alura, pelo programa da EDUTECH.
+- 🌱 &nbsp; Crescendo e aprendendo mais sobre software engineering e front-end development.
   
 🚀 Minhas Skills
  <br>
