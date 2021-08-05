@@ -1,13 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h3> :man: &nbsp;Sobre mim </h3>
-
+<p>
 - 🤔 &nbsp; Amante de programação e extremamente curioso.
 - 🎓 &nbsp; Estudando de PYTHON na Alura, pelo programa da EDUTECH.
 - 🌱 &nbsp; Crescendo e aprendendo mais sobre software engineering e front-end development.
-  
-🚀 Minhas Skills
- <br>
+</p>
+🚀Minhas Skills:
+<br>
 <code><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></code>
 <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/></code>
 <code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></code>
