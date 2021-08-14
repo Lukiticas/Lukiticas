@@ -46,5 +46,5 @@ Se você quiser entrar em contato comigo, aqui está minhas principais midias!: 
 
 -:star_struck: Me siga no Spotify!!
 <br>
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22gprjkuipcndvypkpwwmjfhi&cover_image=true&theme=default)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22gprjkuipcndvypkpwwmjfhi&cover_image=true&theme=default)]
 <img src="https://freesvg.org/img/Stylized-Geometric-Kitten.png" min-width="400px" max-width="400px" width="400px" align="right" alt="gatin">
