@@ -43,6 +43,7 @@ Se você quiser entrar em contato comigo, aqui está minhas principais midias!: 
   
 [![card](https://github-readme-stats.vercel.app/api?username=Lukiticas&theme=dark)](https://github.com/Lukiticas/)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukiticas&layout=compact&theme=dark)](https://github.com/Lukiticas/)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22gprjkuipcndvypkpwwmjfhi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
 
