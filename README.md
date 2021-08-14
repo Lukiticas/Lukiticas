@@ -43,8 +43,3 @@ Se você quiser entrar em contato comigo, aqui está minhas principais midias!: 
   
 [![card](https://github-readme-stats.vercel.app/api?username=Lukiticas&theme=dark)](https://github.com/Lukiticas/)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukiticas&layout=compact&theme=dark)](https://github.com/Lukiticas/)
-
--:star_struck: Me siga no Spotify!!
-<br>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22gprjkuipcndvypkpwwmjfhi&cover_image=true&theme=default)]
-<img src="https://freesvg.org/img/Stylized-Geometric-Kitten.png" min-width="470px" max-width="470px" width="470px" align="right" alt="gatin">
