@@ -46,6 +46,7 @@ Se você quiser entrar em contato comigo, aqui está minhas principais midias!: 
 
 -:star_struck: Me siga no Spotify!!
 <br>
+![gatinho](https://freesvg.org/img/missiridia-Sleepy-Calico-Cat.png)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22gprjkuipcndvypkpwwmjfhi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
