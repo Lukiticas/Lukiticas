@@ -4,7 +4,7 @@
 <br>
 - 🤔 &nbsp; Amante de programação e extremamente curioso.
 <br>
-- 🎓 &nbsp; Estudando de PYTHON na Alura, pelo programa da EDUTECH.
+- 🎓 &nbsp; Formando pela Edutech e atualmente estudando ADS pela UNIFAEL
 <br>
 - 🌱 &nbsp; Crescendo e aprendendo mais sobre software engineering e front-end development.
 <br>
