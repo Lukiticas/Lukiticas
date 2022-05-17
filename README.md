@@ -41,7 +41,8 @@ Se você quiser entrar em contato comigo, aqui está minhas principais midias!: 
 <br>
 <p>Sobre meu ✨github✨:</p>
 
-[![card](https://github-readme-stats.vercel.app/api?username=Lukiticas&theme=dark)](https://github.com/Lukiticas/) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukiticas&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukiticas&theme=dark)](https://github.com/Lukiticas/github-readme-stats)
 
 ![snake gif](https://github.com/Lukiticas/snk/blob/output/github-contribution-grid-snake.svg)
