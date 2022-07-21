@@ -30,9 +30,6 @@ Se você quiser entrar em contato comigo, aqui está minhas principais midias!: 
           
   <a href="https://www.reddit.com/user/PotatoBreadDad" alt="Reddit">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-  
-  <a href="https://www.instagram.com/lulu_mathel/" alt="Instagram">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
   <a href="mailto: lucasmathues416@outlook.com" alt="outlook">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
