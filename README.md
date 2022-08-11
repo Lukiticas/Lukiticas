@@ -40,7 +40,10 @@ Se você quiser entrar em contato comigo, aqui está minhas principais midias!: 
 <p>Sobre meu ✨github✨:</p>
 
 |<a href="https://github.com/Lukiticas/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lukiticas&count_private=true&hide=prs,issues&theme=dark&hide_title=true&show_icons=true&custom_title=Lukiticas" /></a>|
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukiticas&theme=dark&layout=compact&custom_title=Linguagens mais usadas" />|
+<a href="https://github.com/Lukiticas/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukiticas&theme=dark&layout=compact&custom_title=Linguagens mais usadas" />|  
+</a>
+
 | ------------- | ------------- |
 
 <a href="https://github.com/Lukiticas/github-readme-stats">
